@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&family=Orbitron:wght@900&display=swap');
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://media.istockphoto.com/id/1190476677/vector/emoticonsemoji-24.jpg?s=612x612&w=0&k=20&c=qNXWY99lXNba0Q2iB1inTnhej0eBtbFRyHBM8Icdiw8=");
+    font-family: 'Montserrat', sans-serif;
+}
+#joketexts{
+    border: 0px solid black;
+    border-radius: 10px;
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    color: #ffc000;
+    background-color: #372e37;
+}
+#btn{
+    color: white;
+    padding: 15px;
+    border: 0px solid black;
+    border-radius: 50px;
+    font-family: 'Orbitron', sans-serif;
+    background-color: darkblue;
+}
+.heading{
+    text-align: center;
+    color: #ffc000;
+    background-color: #372e37;
+    font-family: 'Orbitron', sans-serif;
+}
